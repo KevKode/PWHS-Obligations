@@ -1,0 +1,13 @@
+[12-Dec-2014 08:28:33 America/Chicago] PHP Warning:  include(../settingPHP/SQLLogin.php): failed to open stream: No such file or directory in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 2
+[12-Dec-2014 08:28:33 America/Chicago] PHP Warning:  include(../settingPHP/SQLLogin.php): failed to open stream: No such file or directory in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 2
+[12-Dec-2014 08:28:33 America/Chicago] PHP Warning:  include(): Failed opening '../settingPHP/SQLLogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 2
+[12-Dec-2014 08:28:33 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 16
+[16-Dec-2014 08:55:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'x' (T_STRING), expecting ';' in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 27
+[16-Dec-2014 08:56:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'x' (T_STRING), expecting ';' in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 27
+[16-Dec-2014 08:57:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'x' (T_STRING), expecting ';' in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 27
+[16-Dec-2014 08:58:11 America/Chicago] PHP Parse error:  syntax error, unexpected 'x' (T_STRING), expecting ';' in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 27
+[16-Dec-2014 09:05:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'x' (T_STRING), expecting ';' in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 29
+[16-Dec-2014 09:08:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'x' (T_STRING), expecting ';' in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 29
+[18-Dec-2014 08:29:22 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 32
+[18-Dec-2014 08:30:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 32
+[18-Dec-2014 08:37:32 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/jeffers/public_html/Capstone/Web2/BUILD/settingsPHP/submitObligation.php on line 32

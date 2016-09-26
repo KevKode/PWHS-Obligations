@@ -1,0 +1,24 @@
+/*.table>tbody>tr.success>td{
+
+	background-color:#7ECC7F;
+
+}
+.table>tbody>tr.success:hover>td{
+
+	background-color:#7ECC7F;
+
+}*/
+
+.btn-success
+{
+	background-color:#7ECC7F;
+}
+.btn-success:hover
+{
+	background-color:#2BAD3A;
+}
+
+.tinyimg
+{
+	width:30px;
+}

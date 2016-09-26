@@ -1,0 +1,3 @@
+[16-Dec-2014 08:52:03 America/Chicago] PHP Warning:  date() expects at least 1 parameter, 0 given in /home2/jeffers/public_html/Capstone/Web2/BUILD/externalPHP/complete.php on line 6
+[12-Jan-2015 09:06:01 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home2/jeffers/public_html/Capstone/Web2/BUILD/externalPHP/PartialPay.php on line 8
+[12-Jan-2015 09:06:25 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home2/jeffers/public_html/Capstone/Web2/BUILD/externalPHP/PartialPay.php on line 8
